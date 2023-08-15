@@ -101,3 +101,18 @@ a:hover
 {
     color: var(--cor5);
 }
+
+@media (max-width: 1050px){
+    div.conteudo{
+        width: 100%;
+    }
+    div.video{
+        width: 100%;
+        overflow: visible;
+    }
+    iframe{
+        width: 450px;
+        height: 253px;
+    }
+
+}
