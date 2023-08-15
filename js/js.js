@@ -38,6 +38,10 @@ function inglesa()
 
     <p class="titulo"> Esse é o futuro do xadrez? - Krikor Sevag </p>
     <div><iframe src="https://www.youtube.com/embed/BEW8keCzFu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+    <br>
+
+    <p class="titulo">Porque a inglesa é a abertura do futuro - Rafael Leitão </p>
+    <div><iframe width="560" height="315" src="https://www.youtube.com/embed/G_fQzhoMo1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
     
     
     <br><br><br><br><br><br><br><br>
