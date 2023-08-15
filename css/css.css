@@ -12,7 +12,7 @@
 *{margin: 0; padding: 0; font-family: 'Signika Negative', sans-serif; color: white;}
 ::-webkit-scrollbar
 {
-    width: 3px;
+    width: 1px;
 }
 ::-webkit-scrollbar-thumb
 {
@@ -77,6 +77,8 @@ p.titulo
 div.conteudo
 {
     width: 40%;
+    overflow: scroll;
+    height: 600px;
 }
 
 div.video
@@ -101,6 +103,34 @@ a:hover
 {
     color: var(--cor5);
 }
+
+img.gif
+{
+    width: 230px;
+}
+div.imagem
+{
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width: 1050px){
     div.conteudo{
